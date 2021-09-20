@@ -1,0 +1,6 @@
+framework module Pods_Atv2Apps_Atv2AppsUITests {
+  umbrella header "Pods-Atv2Apps-Atv2AppsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
